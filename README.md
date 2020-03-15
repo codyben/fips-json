@@ -3,7 +3,7 @@ FIPS codes in JSON format. Nothing else.
 
 ## Where is it from?
 
-Data was taken from here: (USDA)[https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/home/?cid=nrcs143_013697]
+Data was taken from here: [USDA](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/home/?cid=nrcs143_013697)
 
 ## Why does this exist?
 
